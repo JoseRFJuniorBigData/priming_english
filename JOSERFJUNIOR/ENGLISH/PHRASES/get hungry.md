@@ -1,1 +1,2 @@
+[[get]]
 ficar com fome

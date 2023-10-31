@@ -1,1 +1,2 @@
+[[like]]
 e como

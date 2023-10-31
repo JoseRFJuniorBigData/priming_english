@@ -1,1 +1,2 @@
+[[know]]
 voce sabe
