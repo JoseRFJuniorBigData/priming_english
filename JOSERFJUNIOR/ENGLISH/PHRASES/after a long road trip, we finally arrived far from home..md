@@ -1,0 +1,3 @@
+[[after]]
+[[arrived]]
+[[far]]

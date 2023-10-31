@@ -1,0 +1,5 @@
+- **perto**, **próximo**
+- **fechar**, **encerrar**
+- **apertado**, **estreito**
+- **íntimo**, **familiar**
+- **minucioso**, **detalhado**
