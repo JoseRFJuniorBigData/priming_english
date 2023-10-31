@@ -1,0 +1,2 @@
+[[all]]
+esse tempo todo ?
