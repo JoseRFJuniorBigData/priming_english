@@ -73,10 +73,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOSERFJUNIOR/ENGLISH/WORD/remote.md",
+                "file": "JOSERFJUNIOR/ENGLISH/PHRASES/please see below the job specs for the role.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "1f1cd8fb07c30fd2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -92,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -143,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 622.5
+    "width": 223.5
   },
   "right": {
     "id": "133aaab4a22a5494",
@@ -159,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOSERFJUNIOR/ENGLISH/WORD/remote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +183,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JOSERFJUNIOR/ENGLISH/WORD/remote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,9 +204,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JOSERFJUNIOR/ENGLISH/WORD/remote.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -220,8 +224,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b202d74145e07a74",
+  "active": "1f1cd8fb07c30fd2",
   "lastOpenFiles": [
+    "JOSERFJUNIOR/ENGLISH/PHRASES/all over.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/below.md",
+    "JOSERFJUNIOR/ENGLISH/IMG/abaixo.png",
+    "JOSERFJUNIOR/ENGLISH/IMG",
+    "JOSERFJUNIOR/ENGLISH/PHRASES/please see below the job specs for the role.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/remote.md",
     "JOSERFJUNIOR/ENGLISH/WORD/proximate.md",
     "JOSERFJUNIOR/ENGLISH/WORD/neighboring.md",
     "JOSERFJUNIOR/ENGLISH/WORD/nearby.md",
@@ -235,7 +245,6 @@
     "JOSERFJUNIOR/ENGLISH/WORD/all.md",
     "JOSERFJUNIOR/ENGLISH/PHRASES/after a road trip, we arrived far from home..md",
     "JOSERFJUNIOR/ENGLISH/PHRASES/after a long road trip, we finally arrived far from home..md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/all over.md",
     "JOSERFJUNIOR/ENGLISH/PHRASES/how can i say it.md",
     "JOSERFJUNIOR/ENGLISH/PHRASES/I have lots of work to do.md",
     "JOSERFJUNIOR/ENGLISH/PHRASES/i imagine that.md",
@@ -244,10 +253,6 @@
     "JOSERFJUNIOR/ENGLISH/PHRASES/i would sleep.md",
     "JOSERFJUNIOR/ENGLISH/PHRASES/it´s like.md",
     "JOSERFJUNIOR/ENGLISH/PHRASES/let me think.md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/see you soon.md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/see you.md",
-    "JOSERFJUNIOR/ENGLISH/WORD/so.md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/The campsite was far from civilization, surrounded by untouched nature..md",
     "JOSERFJUNIOR/ENGLISH/WORD",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -258,7 +263,6 @@
     "github-archive/old",
     "github-archive/manuscript/variable hand out.docx",
     "github-archive/manuscript/Variables.docx",
-    "github-archive/manuscript",
-    "github-archive/datasets/strength.SWOW-EN.R123.csv"
+    "github-archive/manuscript"
   ]
 }
