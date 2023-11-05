@@ -4,103 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8e138f4b047f1906",
+        "id": "7f539588985bde92",
         "type": "tabs",
         "children": [
           {
-            "id": "4c33b819b263f523",
+            "id": "a1e31e4aef145fc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOSERFJUNIOR/ENGLISH/KNOW/have.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91e7571eac0461b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JOSERFJUNIOR/ENGLISH/KNOW/have.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfa9fb81a1fb0438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JOSERFJUNIOR/ENGLISH/NOT_KNOW/far.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "127e8d9b82792a51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JOSERFJUNIOR/ENGLISH/PHRASES/after a road trip, we arrived far from home..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a7b30d87d807f9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JOSERFJUNIOR/ENGLISH/WORD/all.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b202d74145e07a74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JOSERFJUNIOR/ENGLISH/PHRASES/please see below the job specs for the role.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f1cd8fb07c30fd2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5c9917970b6043d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JOSERFJUNIOR/ENGLISH/PHRASES/README.md",
+                "file": "JOSERFJUNIOR/ENGLISH/WORD/would.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JOSERFJUNIOR/ENGLISH/WORD/would.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JOSERFJUNIOR/ENGLISH/WORD/would.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JOSERFJUNIOR/ENGLISH/WORD/would.md"
+              }
             }
           }
         ]
@@ -224,35 +147,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f1cd8fb07c30fd2",
+  "active": "a1e31e4aef145fc8",
   "lastOpenFiles": [
-    "JOSERFJUNIOR/ENGLISH/PHRASES/all over.md",
-    "JOSERFJUNIOR/ENGLISH/WORD/below.md",
+    "README.md",
+    "To cut.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/word.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/would.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/to.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To come.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/can.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To work.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To create.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To continue.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To consider.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To change.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To call.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To buy.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To build.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To believe.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To bring.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To begin.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To become.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To be.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To ask.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To appear.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To allow.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/To add.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/could.md",
+    "JOSERFJUNIOR/ENGLISH/WORD/nearby.md",
+    "JOSERFJUNIOR/ENGLISH/IMG/Pasted image 20231102100120.png",
+    "JOSERFJUNIOR/ENGLISH/IMG/Pasted image 20231102095950.png",
+    "JOSERFJUNIOR/ENGLISH/IMG/Pasted image 20231102100046.png",
     "JOSERFJUNIOR/ENGLISH/IMG/abaixo.png",
     "JOSERFJUNIOR/ENGLISH/IMG",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/please see below the job specs for the role.md",
-    "JOSERFJUNIOR/ENGLISH/WORD/remote.md",
-    "JOSERFJUNIOR/ENGLISH/WORD/proximate.md",
-    "JOSERFJUNIOR/ENGLISH/WORD/neighboring.md",
-    "JOSERFJUNIOR/ENGLISH/WORD/nearby.md",
-    "JOSERFJUNIOR/ENGLISH/NOT_KNOW/far.md",
-    "JOSERFJUNIOR/ENGLISH/WORD/would.md",
-    "JOSERFJUNIOR/ENGLISH/WORD/well.md",
-    "JOSERFJUNIOR/ENGLISH/WORD/close.md",
-    "JOSERFJUNIOR/ENGLISH/WORD/get.md",
-    "JOSERFJUNIOR/ENGLISH/WORD/distant.md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/take care.md",
-    "JOSERFJUNIOR/ENGLISH/WORD/all.md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/after a road trip, we arrived far from home..md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/after a long road trip, we finally arrived far from home..md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/how can i say it.md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/I have lots of work to do.md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/i imagine that.md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/I love living far from the city.md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/i mean.md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/i would sleep.md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/it´s like.md",
-    "JOSERFJUNIOR/ENGLISH/PHRASES/let me think.md",
     "JOSERFJUNIOR/ENGLISH/WORD",
     "Untitled.canvas",
     "Untitled 1.canvas",
